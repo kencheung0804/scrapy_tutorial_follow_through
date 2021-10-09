@@ -1,0 +1,402 @@
+[
+    {
+        "currency pair": "ETH/BTC",
+        "volume(24h)": "12 898.25 ETH"
+    },
+    {
+        "currency pair": "ETH/USD",
+        "volume(24h)": "713.47 ETH"
+    },
+    {
+        "currency pair": "NSRT/ETH",
+        "volume(24h)": "189.08 ETH"
+    },
+    {
+        "currency pair": "ETH/RUR",
+        "volume(24h)": "176.67 ETH"
+    },
+    {
+        "currency pair": "PZM/ETH",
+        "volume(24h)": "40.55 ETH"
+    },
+    {
+        "currency pair": "XFC/ETH",
+        "volume(24h)": "33.61 ETH"
+    },
+    {
+        "currency pair": "LINK/ETH",
+        "volume(24h)": "15.74 ETH"
+    },
+    {
+        "currency pair": "XSN/ETH",
+        "volume(24h)": "5.10 ETH"
+    },
+    {
+        "currency pair": "WNL/ETH",
+        "volume(24h)": "3.51 ETH"
+    },
+    {
+        "currency pair": "YOC/ETH",
+        "volume(24h)": "3.24 ETH"
+    },
+    {
+        "currency pair": "HEDG/ETH",
+        "volume(24h)": "3.05 ETH"
+    },
+    {
+        "currency pair": "JNB/ETH",
+        "volume(24h)": "1.52 ETH"
+    },
+    {
+        "currency pair": "ZEC/ETH",
+        "volume(24h)": "1.89 ETH"
+    },
+    {
+        "currency pair": "XRP/ETH",
+        "volume(24h)": "1.76 ETH"
+    },
+    {
+        "currency pair": "IPL/ETH",
+        "volume(24h)": "1.66 ETH"
+    },
+    {
+        "currency pair": "CCRB/ETH",
+        "volume(24h)": "1.36 ETH"
+    },
+    {
+        "currency pair": "MNX/ETH",
+        "volume(24h)": "1.31 ETH"
+    },
+    {
+        "currency pair": "GAS/ETH",
+        "volume(24h)": "1.12 ETH"
+    },
+    {
+        "currency pair": "NOKU/ETH",
+        "volume(24h)": "1.22 ETH"
+    },
+    {
+        "currency pair": "CPC/ETH",
+        "volume(24h)": "1.32 ETH"
+    },
+    {
+        "currency pair": "ETH/USDT",
+        "volume(24h)": "1.16 ETH"
+    },
+    {
+        "currency pair": "IMP/ETH",
+        "volume(24h)": "1.15 ETH"
+    },
+    {
+        "currency pair": "HB/ETH",
+        "volume(24h)": "0.97 ETH"
+    },
+    {
+        "currency pair": "MDC/ETH",
+        "volume(24h)": "1.00 ETH"
+    },
+    {
+        "currency pair": "UTNP/ETH",
+        "volume(24h)": "0.86 ETH"
+    },
+    {
+        "currency pair": "MIOTA/ETH",
+        "volume(24h)": "0.94 ETH"
+    },
+    {
+        "currency pair": "NET/ETH",
+        "volume(24h)": "0.56 ETH"
+    },
+    {
+        "currency pair": "ONL/ETH",
+        "volume(24h)": "0.76 ETH"
+    },
+    {
+        "currency pair": "DEX/ETH",
+        "volume(24h)": "0.45 ETH"
+    },
+    {
+        "currency pair": "SUMO/ETH",
+        "volume(24h)": "0.21 ETH"
+    },
+    {
+        "currency pair": "MNC/ETH",
+        "volume(24h)": "0.42 ETH"
+    },
+    {
+        "currency pair": "DGB/ETH",
+        "volume(24h)": "0.18 ETH"
+    },
+    {
+        "currency pair": "NANO/ETH",
+        "volume(24h)": "0.16 ETH"
+    },
+    {
+        "currency pair": "EDG/ETH",
+        "volume(24h)": "0.11 ETH"
+    },
+    {
+        "currency pair": "SNT/ETH",
+        "volume(24h)": "0.10 ETH"
+    },
+    {
+        "currency pair": "ZRX/ETH",
+        "volume(24h)": "0.08 ETH"
+    },
+    {
+        "currency pair": "BTG/ETH",
+        "volume(24h)": "0.08 ETH"
+    },
+    {
+        "currency pair": "QBIT/ETH",
+        "volume(24h)": "0.07 ETH"
+    },
+    {
+        "currency pair": "BCH/ETH",
+        "volume(24h)": "0.07 ETH"
+    },
+    {
+        "currency pair": "QTUM/ETH",
+        "volume(24h)": "0.06 ETH"
+    },
+    {
+        "currency pair": "TRX/ETH",
+        "volume(24h)": "0.06 ETH"
+    },
+    {
+        "currency pair": "MANA/ETH",
+        "volume(24h)": "0.04 ETH"
+    },
+    {
+        "currency pair": "XEM/ETH",
+        "volume(24h)": "0.04 ETH"
+    },
+    {
+        "currency pair": "WGR/ETH",
+        "volume(24h)": "0.03 ETH"
+    },
+    {
+        "currency pair": "QNT/ETH",
+        "volume(24h)": "0.03 ETH"
+    },
+    {
+        "currency pair": "CRAD/ETH",
+        "volume(24h)": "0.03 ETH"
+    },
+    {
+        "currency pair": "BFF/ETH",
+        "volume(24h)": "0.02 ETH"
+    },
+    {
+        "currency pair": "XTZ/ETH",
+        "volume(24h)": "0.02 ETH"
+    },
+    {
+        "currency pair": "BAT/ETH",
+        "volume(24h)": "0.02 ETH"
+    },
+    {
+        "currency pair": "AET/ETH",
+        "volume(24h)": "0.01 ETH"
+    },
+    {
+        "currency pair": "MNTP/ETH",
+        "volume(24h)": "0.02 ETH"
+    },
+    {
+        "currency pair": "LATX/ETH",
+        "volume(24h)": "0.02 ETH"
+    },
+    {
+        "currency pair": "MTL/ETH",
+        "volume(24h)": "0.02 ETH"
+    },
+    {
+        "currency pair": "RVN/ETH",
+        "volume(24h)": "0.01 ETH"
+    },
+    {
+        "currency pair": "DMD/ETH",
+        "volume(24h)": "0.01 ETH"
+    },
+    {
+        "currency pair": "ABBC/ETH",
+        "volume(24h)": "0.01 ETH"
+    },
+    {
+        "currency pair": "TCT/ETH",
+        "volume(24h)": "0.01 ETH"
+    },
+    {
+        "currency pair": "ANT/ETH",
+        "volume(24h)": "0.01 ETH"
+    },
+    {
+        "currency pair": "DGD/ETH",
+        "volume(24h)": "0.01 ETH"
+    },
+    {
+        "currency pair": "INSN/ETH",
+        "volume(24h)": "0.01 ETH"
+    },
+    {
+        "currency pair": "VMR/ETH",
+        "volume(24h)": "0.01 ETH"
+    },
+    {
+        "currency pair": "NEXO/ETH",
+        "volume(24h)": "0.01 ETH"
+    },
+    {
+        "currency pair": "ETH/USDC",
+        "volume(24h)": "0.01 ETH"
+    },
+    {
+        "currency pair": "SC/ETH",
+        "volume(24h)": "0.01 ETH"
+    },
+    {
+        "currency pair": "DGTX/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "POST/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "BUK2/ETH",
+        "volume(24h)": "0.01 ETH"
+    },
+    {
+        "currency pair": "MNE/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "SFT/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "CBC/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "eETT/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "MOF/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "SHARK/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "CBR/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "VOISE/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "PISH/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "ZMN/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "WIC/ETH",
+        "volume(24h)": "0.02 ETH"
+    },
+    {
+        "currency pair": "BTM/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "JBY/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "YVM/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "PAY/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "INS/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "KED/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "KICK/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "MRP/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "ARTE/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "CRC/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "VRS/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "ITI/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "CPT/ETH",
+        "volume(24h)": "1.20 ETH"
+    },
+    {
+        "currency pair": "XAC/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "DXR/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "ROCKET/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "FLOT/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "KAPU/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "ESR/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "SPD/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "PPT/ETH",
+        "volume(24h)": "0.00 ETH"
+    },
+    {
+        "currency pair": "XLAB/ETH",
+        "volume(24h)": "0.00 ETH"
+    }
+]
